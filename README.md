@@ -1,0 +1,1 @@
+# Single-parallax-page-blog
